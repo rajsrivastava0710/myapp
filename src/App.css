@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  padding-top: 20px;
+  /* background: linear-gradient(45deg, blue,red,silver); */
+  background: #c891974f;
+  min-height:100vh;
 }
 
 .App-logo {
@@ -26,6 +30,14 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.headText{
+  font-family: 'Pacifico', cursive;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4rem;
+  display: block;
+  color:#120080b8;
 }
 
 @keyframes App-logo-spin {
